@@ -1,0 +1,43 @@
+<h1 align="center">👋 Hey, I'm LK!</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&lines=Software+Development+%7C+Python;Automation+%7C+Discord+Bots;Always+Learning+%7C+Optimizing+Code" />
+</p>
+
+---
+
+### 👨‍💻 About Me  
+💻 **Python | Hobby Developer**  
+🔧 **Automation & Discord Bots – Smart Tools & Efficient Solutions**  
+
+---
+
+### :rocket:  My Projects 
+:cloud: **[Cloudy](https://deine-website.com)** – A powerful Discord bot for automation & smart integrations.
+<p align="center"> <img src="https://img.shields.io/badge/-Cloudy%20Bot-5865F2?style=for-the-badge&logo=discord&logoColor=white" /> </p>
+
+---
+
+### ⚙️ My Tools  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)  
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+![Discord Bots](https://img.shields.io/badge/-Discord%20Bots-5865F2?style=for-the-badge&logo=discord&logoColor=white)  
+
+---
+
+### 📊 GitHub-Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lk1dev&show_icons=true&theme=tokyonight" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lk1dev&theme=tokyonight" height="165">
+</p>
+
+---
+
+⭐ **Check out my projects!** ⭐
+
+
+
+
+
+
