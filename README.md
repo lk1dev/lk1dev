@@ -14,7 +14,6 @@
 
 ### :rocket:  My Projects 
 :cloud: **[Cloudy](https://deine-website.com)** – A powerful Discord bot for automation & smart integrations.
-<p align="center"> <img src="https://img.shields.io/badge/-Cloudy%20Bot-5865F2?style=for-the-badge&logo=discord&logoColor=white" /> </p>
 
 ---
 
