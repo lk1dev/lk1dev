@@ -6,18 +6,18 @@
 
 ---
 
-### 👨‍💻 About Me  
+## 👨‍💻 About Me  
 💻 **Python | Hobby Developer**  
 🔧 **Automation & Discord Bots – Smart Tools & Efficient Solutions**  
 
 ---
 
-### :rocket:  My Projects 
+## :rocket:  My Projects 
 :cloud: **[Cloudy](https://deine-website.com)** – A powerful Discord bot for automation & smart integrations.
 
 ---
 
-### ⚙️ My Tools  
+## ⚙️ My Tools  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
@@ -26,7 +26,7 @@
 
 ---
 
-### 📊 GitHub-Stats  
+## 📊 GitHub-Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lk1dev&show_icons=true&theme=tokyonight" height="165">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lk1dev&theme=tokyonight" height="165">
