@@ -6,7 +6,7 @@
 
 ---
 
-## <img src="/mnt/data/3c8da6f3-e44b-419f-b704-621ec451661d.png" width="24" height="24" style="vertical-align: middle;" /> About Me  
+## <img src="https://tenor.com/de/view/hacker-pepe-meme-shades-typing-gif-16298165" width="24" height="24" style="vertical-align: middle;" /> About Me  
 💻 **Python | Hobby Developer**  
 🔧 **Automation & Discord Bots – Smart Tools & Efficient Solutions**  
 
